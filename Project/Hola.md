@@ -57,6 +57,6 @@ df['job_skills'] = df['job_skills'].apply(lambda x: ast.literal_eval(x) if pd.no
 ### Consideration
 I decided to work only with US data since it has the most available information for analytics.
 
-You can check full code [here](Project\1_Intro.ipynb).
+You can check full code [here](1_Intro.ipynb).
 
-[Top_Countries_By_Job_Postings](Project\Images\Top_Countries_By_Job_Postings.png)
+![Image](./Images/Top_Countries_By_Job_Postings.png)
